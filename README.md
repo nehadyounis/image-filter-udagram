@@ -9,9 +9,10 @@ https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
 
 After Filtering
 
-http://image-filter-udagram-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
+http://image-filter-udagram-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg
 
 
+<img width="1440" alt="Screen Shot 2022-11-07 at 11 48 33 PM" src="https://user-images.githubusercontent.com/67816665/200423392-b5370558-b0c1-46e3-a2dd-1d7a7493ff20.png">
 
 
 
