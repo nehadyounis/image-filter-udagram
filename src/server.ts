@@ -35,7 +35,7 @@ import { url } from 'inspector';
 
 
   app.get("/filteredimage", async (req: express.Request, res: express.Response) => {
-    let { image_url } = req.query;
+    let { image_url:string } = req.query;
     if ( !image_url ) {
       return res.status(400).send("Please add a URL (?image_url=...)");
     }
